@@ -1,0 +1,19 @@
+{
+  "name": "procesoshmv",
+  "version": "1.0.0",
+  "description": "Portal de Procesos HMV Soluciones",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "HMV Soluciones",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.2.3"
+  },
+  "devDependencies": {
+
+  }
+}
