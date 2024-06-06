@@ -10,8 +10,8 @@ hero:
     alt: HMV Soluciones
   actions:
     - theme: brand
-      text: Manuales
-      link: /inicio/
+      text: Procesos
+      link: /hmvsoluciones/introduccion
     - theme: brand
       text: HMV Soluciones
       link: https://hmvsoluciones.com
